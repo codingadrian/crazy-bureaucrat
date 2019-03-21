@@ -1,0 +1,101 @@
+/**/
+/*Reset CSS*/
+@import url("reset.css");
+
+/*Global Styles*/
+
+html {
+  color: whitesmoke;
+}
+
+body {
+  background-color: white;
+  border: 2px solid silver;
+  border-radius: 5px;
+  line-height: 1.5;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 15px;
+  width: 1000px;
+}
+
+/*Header*/
+
+header {
+  background-color: black;
+  border-radius: 75px;
+  color: whitesmoke;
+  height: 50px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  text-align: center;
+  width: 260px;
+}
+
+/*Summary*/
+
+#summary {
+  margin-bottom: 40px;
+}
+
+/*Form*/
+
+fieldset {
+  border: 1px solid black;
+  margin: 0 auto;
+  padding: 10px;
+  width: 600px;
+}
+
+.center-input {
+  text-align: center;
+}
+
+/*Text type*/
+
+/*Password and Email type*/
+
+/*Radio button type*/
+
+/*Select Drop Down type*/
+
+/*Textarea type*/
+
+textarea {
+  border-radius: 5px;
+  font-size: 14px;
+  height: 100px;
+  padding: 5px 10px;
+  width: 550px;
+}
+
+/*Button type*/
+
+/*Radio type*/
+
+/*Checkbox type*/
+
+/*Datalist*/
+
+/*Color type*/
+
+/*Date type*/
+
+/*File type*/
+
+/*Range type*/
+
+input[type=range] {
+  width: 90%;
+}
+
+/*Submit Button*/
+
+.sub-clear {
+  background-color: red;
+  border: 0;
+  color: white;
+  font-weight: 500;
+  padding: 3px 5px;
+}
+
